@@ -26,7 +26,7 @@ const Subham = {
         frontEnd: {
              ["React Js", "HTML", "CSS]
         },
-        devOps: ["AWS", "Heroku","Vercel],
+        devOps: ["AWS", "Heroku","Vercel"],
         databases: ["mongo", "MySql", "sqlite"],
         misc: ["Firebase", "Material UI","Chakra UI","Tailwind"]
     },
