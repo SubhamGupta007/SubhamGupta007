@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Subham Gupta</h1>
-<h3 align="center">3rd Year Electrical Engineering | NIT Durgapur | Member of SAE NIT Durgapur | Member of RECursion Programming Community Of NIT Durgapur</h3>
+<h3 align="center">Final year Electrical Engineering | NIT Durgapur | Web Development Head of SAE NIT Durgapur | Senior Co-ordinator of RECursion Programming Community Of NIT Durgapur</h3>
 
 <h3 align="center">Visit my Website:<a href="https://subhamportfolio.herokuapp.com/#/">subhamportfolio.herokuapp.com</a></h3>
 
@@ -7,7 +7,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhamgupta007" alt="subhamgupta007" /></a> </p>
 
-- 🌱 I’m currently learning **Node js , React Js**
+- 🌱 I’m currently learning **MERN STACK**
 
 - 📫 How to reach me **sg7287732@gmail.com**
 
@@ -24,10 +24,10 @@ const Subham = {
              ["Node", "Express", "Django"],
         },
         frontEnd: {
-             ["React Js", "HTML", "CSS]
+             ["React Js", "HTML", "CSS","Bootstrap"]
         },
         devOps: ["AWS", "Heroku","Vercel"],
-        databases: ["mongo", "MySql", "sqlite"],
+        databases: ["MongoDb", "MySql", "sqlite"],
         misc: ["Firebase", "Material UI","Chakra UI","Tailwind"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
