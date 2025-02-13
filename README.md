@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Subham Gupta</h1>
-<h3 align="center">Final year Electrical Engineering | NIT Durgapur | Web Development Head of SAE NIT Durgapur | Senior Co-ordinator of RECursion Programming Community Of NIT Durgapur</h3>
+<h3 align="center">Data Engineer at ZS associates | NIT Durgapur | Web Development Head of SAE NIT Durgapur | Senior Co-ordinator of RECursion Programming Community Of NIT Durgapur</h3>
 
 <h3 align="center">Visit my Website:<a href="https://63ce4ef9a445bd23713423f7--gentle-gumdrop-1ef8d2.netlify.app/">subhamportfolio</a></h3>
 
