@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Subham Gupta</h1>
-<h3 align="center">Data Engineer at ZS associates | NIT Durgapur | Web Development Head of SAE NIT Durgapur | Senior Co-ordinator of RECursion Programming Community Of NIT Durgapur</h3>
+<h3 align="center">Data Engineer II at MSD | NIT Durgapur </h3>
 
 <h3 align="center">Visit my Website:<a href="https://63ce4ef9a445bd23713423f7--gentle-gumdrop-1ef8d2.netlify.app/">subhamportfolio</a></h3>
 
@@ -7,7 +7,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhamgupta007" alt="subhamgupta007" /></a> </p>
 
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 I’m currently learning **AI/ML**
 
 - 📫 How to reach me **sg7287732@gmail.com**
 
@@ -17,21 +17,20 @@
 ```javascript
 const Subham = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "C++","Python"],
-    askMeAbout: ["web dev", "tech", "app dev"],
+    code: ["Python", "SQL","Spark"],
+    askMeAbout: ["Big Data", "Dev Ops", "Python dev"],
     technologies: {
-        backEnd: {
-             ["Node", "Express", "Django"],
+        Big Data: {
+             ["AWS","Python", "SQL","Spark"],
         },
-        frontEnd: {
-             ["React Js", "HTML", "CSS","Bootstrap"]
+        Software Developemnt: {
+             ["React JS", "Django"]
         },
-        devOps: ["AWS", "Heroku","Vercel"],
-        databases: ["MongoDb", "MySql", "sqlite"],
-        misc: ["Firebase", "Material UI","Chakra UI","Tailwind"]
+        devOps: ["AWS", "Terraform","Github Actions"],
+        databases: ["Postgre", "MySql", "sqlite"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "Web App Development",
+    currentFocus: "Data Engineering",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
